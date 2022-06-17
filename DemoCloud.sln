@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCloud", "DemoCloud\DemoCloud.csproj", "{EEEC39A3-40F8-427F-87A8-38341D090EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEC39A3-40F8-427F-87A8-38341D090EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEC39A3-40F8-427F-87A8-38341D090EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEC39A3-40F8-427F-87A8-38341D090EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEC39A3-40F8-427F-87A8-38341D090EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8BE5D46-D7EE-4C9F-9534-2B9BDACD8752}
+	EndGlobalSection
+EndGlobal

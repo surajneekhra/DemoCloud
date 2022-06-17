@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rG2l8v8/6LK2+GHYSoRkKdCWdisCXiUlCEC1gq0ILCnBDShKtxnwibsSckeo+ly8ZgJMfJ2841u2kZ0BAjfpoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\b.i.s\\DemoCloud\\DemoCloud\\DemoCloud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b.i.s\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
